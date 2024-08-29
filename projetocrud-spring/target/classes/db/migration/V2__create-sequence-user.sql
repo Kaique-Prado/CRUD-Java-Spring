@@ -1,0 +1,4 @@
+CREATE SEQUENCE seq_user
+    START 1
+    INCREMENT 1
+    MINVALUE 1;
